@@ -104,7 +104,7 @@ def choose_model():
         "1": ("meta-llama/llama-3.2-3b-instruct:free", "Llama 3.2 (Free)"),
         "2": ("microsoft/phi-3-mini-128k-instruct:free", "Phi-3 Mini (Free)"),
         "3": ("google/gemma-2-9b-it:free", "Gemma 2 (Free)"),
-        "4": ("openai/gpt-3.5-turbo", "GPT-3.5 (Cheap)")
+        "4": ("google/gemini-flash-1.5", "Gemini Flash 1.5 (Cheap)")
     }
     
     print("\nPick a model:")

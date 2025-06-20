@@ -12,10 +12,11 @@ This is a simple Python app that lets you chat with AI models using the OpenRout
 ## OpenRouter Free Tier Explained
 
 - **Free Credits:** When you sign up at [openrouter.ai](https://openrouter.ai), you get free credits automatically—no credit card required.
-- **Free Models:** Many models are completely free to use, including Llama 3.2, Phi-3 Mini, and Gemma 2. These are marked as "free" in the app's model selection.
-- **Paid Models:** Some models (like GPT-3.5) are very cheap, but will use up your free credits. You can see your balance on the OpenRouter dashboard.
+- **Free Models:** Many models have a free tier, including Llama 3.2, Phi-3 Mini, and Gemma 2. These are marked as "free" in the app's model selection.
+- **Paid Models:** Some models are very cheap, but will use up your free credits. You can see your balance on the OpenRouter dashboard.
 - **What happens when you run out?** If you use up your free credits, you can still use the free models, but paid models will stop working until you add more credits (as little as $1).
 - **No credit card needed to start:** You can use all free models and your initial credits without entering payment info.
+
 
 ## Setup
 
